@@ -1,0 +1,22 @@
+{
+  "name": "cron-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^2.0.2",
+    "ethereumjs-tx": "^1.3.7",
+    "mongodb": "^3.2.3",
+    "mysql": "^2.17.1",
+    "nodejs-persistable-scheduler": "^1.0.0",
+    "q": "^1.5.1",
+    "schedule-drone": "^0.1.0",
+    "web3": "^1.0.0-beta.37"
+  }
+}
